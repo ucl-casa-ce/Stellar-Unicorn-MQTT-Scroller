@@ -12,5 +12,12 @@ The code is set up around our THE: Time, Headlines and Envivronmental Informatio
 
 Copy all the files to your Stellar Unicon using Thonny - edit config.py to add your Wifi and MQTT broker credentials.
 
+The Case
+
+Three files are provided to laser cut:
+
+1) The laser cut front as pictured with Etching (THE: Time, Headlines, Environmental)
+2) The laser cut front, minus text
+3) Front cut for the clear acrylic
 
 Created as part of work at the Connected Environments Group at the Centre for Advanced Spatial Analysis, University College London.

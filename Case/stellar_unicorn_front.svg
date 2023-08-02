@@ -1,0 +1,19 @@
+<svg id="svgcontent" width="300mm" height="210mm" viewBox="0 0 3000 2100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" data-top="-426" data-left="-1346" data-zoom="0.298" data-en_af="true" data-en_diode="false" data-rotary_mode="false" data-engrave_dpi="high" style="will-change: scroll-position, contents, transform;">
+
+ <g data-height="3" data-configName="0" data-zstep="0" data-repeat="1" data-strength="60" data-speed="4" data-color="#F50000" style="cursor: move;" class="layer">
+  <title>Cut</title>
+  <filter color-interpolation-filters="sRGB" primitiveUnits="userSpaceOnUse" filterUnits="objectBoundingBox" id="filter#F50000">
+   <feColorMatrix values="1 0 0 0 0.9607843137254902, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0" type="matrix"/>
+  </filter>
+  <path vector-effect="non-scaling-stroke" stroke="#F50000" id="svg_67" data-original-layer="20" d="m206.56666,254.35984c-14.72756,0 -26.66667,11.93911 -26.66667,26.66667l0,906.66666c0,14.72756 11.93911,26.66667 26.66667,26.66667l906.66666,0c14.72756,0 26.66667,-11.93911 26.66667,-26.66667l0,-906.66666c0,-14.72756 -11.93911,-26.66667 -26.66667,-26.66667l-906.66666,0z" fill="none"/>
+  <path vector-effect="non-scaling-stroke" id="svg_73" data-original-layer="20" d="m93.27373,149.35983c-18.40945,0 -33.33333,14.92389 -33.33333,33.33333l0,1133.33339c0,18.40945 14.92389,33.33333 33.33333,33.33333l1133.33339,0c18.40945,0 33.33333,-14.92389 33.33333,-33.33333l0,-1133.33339c0,-18.40945 -14.92389,-33.33333 -33.33333,-33.33333l-1133.33339,0z" stroke="#F50000" fill="none"/>
+  <path data-original-layer="20" id="svg_175" d="m167.76633,969.03587c0,-3.3815 -1.3433,-6.6245 -3.7344,-9.0156c-2.3911,-2.3911 -5.6341,-3.7344 -9.0156,-3.7344c-3.3815,0 -6.6245,1.3433 -9.0156,3.7344c-2.3911,2.3911 -3.7344,5.6341 -3.7344,9.0156c0,3.3815 1.3433,6.6245 3.7344,9.0156c2.3911,2.3911 5.6341,3.7344 9.0156,3.7344c3.3815,0 6.6245,-1.3433 9.0156,-3.7344c2.3911,-2.3911 3.7344,-5.6341 3.7344,-9.0156z" vector-effect="non-scaling-stroke" stroke="#F50000" fill="none"/>
+  <path data-original-layer="20" id="svg_176" d="m1177.76633,969.03587c0,-3.3815 -1.3433,-6.6245 -3.7344,-9.0156c-2.3911,-2.3911 -5.6341,-3.7344 -9.0156,-3.7344c-3.3815,0 -6.6245,1.3433 -9.0156,3.7344c-2.3911,2.3911 -3.7344,5.6341 -3.7344,9.0156c0,3.3815 1.3433,6.6245 3.7344,9.0156c2.3911,2.3911 5.6341,3.7344 9.0156,3.7344c3.3815,0 6.6245,-1.3433 9.0156,-3.7344c2.3911,-2.3911 3.7344,-5.6341 3.7344,-9.0156z" vector-effect="non-scaling-stroke" stroke="#F50000" fill="none"/>
+ </g>
+ <g display="inline" data-configName="0" data-diode="0" data-zstep="0" data-height="3" data-repeat="1" data-strength="20" data-speed="100" data-color="#3F51B5" style="cursor: move;" class="layer">
+  <title>Etch</title>
+  <filter color-interpolation-filters="sRGB" primitiveUnits="userSpaceOnUse" filterUnits="objectBoundingBox" id="filter#3F51B5">
+   <feColorMatrix values="1 0 0 0 0.24705882352941178, 0 1 0 0 0.3176470588235294, 0 0 1 0 0.7098039215686275, 0 0 0 1 0" type="matrix"/>
+  </filter>
+ </g>
+</svg>
