@@ -11,6 +11,8 @@ The code is set up around our THE: Time, Headlines and Envivronmental Informatio
 
 Copy all the files to your Stellar Unicon using Thonny - edit config.py to add your Wifi and MQTT broker credentials.
 
+![Case](https://www.digitalurban.org/wp-content/uploads/2023/08/StellarParts.jpg)
+
 ## The Case
 
 Three files are provided to laser cut:
