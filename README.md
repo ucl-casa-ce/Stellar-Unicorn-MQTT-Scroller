@@ -21,4 +21,4 @@ Three files are provided to laser cut:
 2) The laser cut front, minus text
 3) Front cut for the clear acrylic
 
-Created as part of work at the Connected Environments Group at the Centre for Advanced Spatial Analysis, University College London.
+Created as part of work at the [Connected Environments Group at the Centre for Advanced Spatial Analysis](https://connected-environments.org/), University College London.
